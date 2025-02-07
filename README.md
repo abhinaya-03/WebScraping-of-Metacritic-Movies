@@ -20,7 +20,7 @@ Below is a screenshot from the website compared to the data frame:
 
 ---
 
-## 🎧 Potential Use Cases
+## 💡 Potential Use Cases
 - **Movie Analysis:** Analyze trends in movie ratings and summaries.
 - **Data Visualization:** Use extracted data for visualization and insights.
 - **Automated Updates:** Expand to scrape data for other years or genres.
